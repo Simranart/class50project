@@ -1,0 +1,21 @@
+h1{
+    color:whitesmoke;
+    justify-content: space-between;
+}
+.header{
+    color:black;
+    justify-content: space-between;
+}
+body{
+    background-color: darkcyan;
+    text-align:center;
+    justify-content: space-between;
+}
+p{
+    color:whitesmoke;
+    justify-content: space-between;
+}
+ul{
+    color:white;
+    justify-content: space-between;
+}
